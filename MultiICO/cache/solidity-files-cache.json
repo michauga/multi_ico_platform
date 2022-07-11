@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\MultiICO\\contracts\\AToken.sol": {
+    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\multi_ico_platform\\MultiICO\\contracts\\AToken.sol": {
       "lastModificationDate": 1654607610440,
       "contentHash": "eee39b1e4b85138795b36c04663a6ee5",
       "sourceName": "contracts/AToken.sol",
@@ -38,7 +38,7 @@
         "AToken"
       ]
     },
-    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\MultiICO\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\ERC20.sol": {
+    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\multi_ico_platform\\MultiICO\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\ERC20.sol": {
       "lastModificationDate": 1652951484368,
       "contentHash": "a9d2146925da52142435d3bb8df53c3c",
       "sourceName": "@openzeppelin/contracts/token/ERC20/ERC20.sol",
@@ -77,7 +77,7 @@
         "ERC20"
       ]
     },
-    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\MultiICO\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\IERC20.sol": {
+    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\multi_ico_platform\\MultiICO\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\IERC20.sol": {
       "lastModificationDate": 1652951484418,
       "contentHash": "ad7c2d0af148c8f9f097d65deeb4da6b",
       "sourceName": "@openzeppelin/contracts/token/ERC20/IERC20.sol",
@@ -112,7 +112,7 @@
         "IERC20"
       ]
     },
-    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\MultiICO\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\IERC20Metadata.sol": {
+    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\multi_ico_platform\\MultiICO\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\IERC20Metadata.sol": {
       "lastModificationDate": 1652951484419,
       "contentHash": "909ab67fc5c25033fe6cd364f8c056f9",
       "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
@@ -149,7 +149,7 @@
         "IERC20Metadata"
       ]
     },
-    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\MultiICO\\node_modules\\@openzeppelin\\contracts\\utils\\Context.sol": {
+    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\multi_ico_platform\\MultiICO\\node_modules\\@openzeppelin\\contracts\\utils\\Context.sol": {
       "lastModificationDate": 1652951484344,
       "contentHash": "5f2c5c4b6af2dd4551027144797bc8be",
       "sourceName": "@openzeppelin/contracts/utils/Context.sol",
@@ -184,7 +184,7 @@
         "Context"
       ]
     },
-    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\MultiICO\\contracts\\USDT.sol": {
+    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\multi_ico_platform\\MultiICO\\contracts\\USDT.sol": {
       "lastModificationDate": 1654605188558,
       "contentHash": "d9777caa056a1423309eea47738e41e8",
       "sourceName": "contracts/USDT.sol",
@@ -221,7 +221,7 @@
         "USDT"
       ]
     },
-    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\MultiICO\\contracts\\ICOToken.sol": {
+    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\multi_ico_platform\\MultiICO\\contracts\\ICOToken.sol": {
       "lastModificationDate": 1654617547746,
       "contentHash": "0dbb26ee591d2062fb906922b8e18eee",
       "sourceName": "contracts/ICOToken.sol",
@@ -259,7 +259,7 @@
         "ICOToken"
       ]
     },
-    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\MultiICO\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\ERC20Burnable.sol": {
+    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\multi_ico_platform\\MultiICO\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\ERC20Burnable.sol": {
       "lastModificationDate": 1652951484369,
       "contentHash": "a1c7f80ae26f5b2d7d563475627fbf25",
       "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol",
@@ -297,7 +297,7 @@
         "ERC20Burnable"
       ]
     },
-    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\MultiICO\\contracts\\ICOPlatform.sol": {
+    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\multi_ico_platform\\MultiICO\\contracts\\ICOPlatform.sol": {
       "lastModificationDate": 1657533436098,
       "contentHash": "e9385f9f9fbb5873103944c976face5c",
       "sourceName": "contracts/ICOPlatform.sol",
@@ -336,7 +336,7 @@
         "ICOPlatform"
       ]
     },
-    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\MultiICO\\node_modules\\@uniswap\\v2-periphery\\contracts\\interfaces\\IUniswapV2Router02.sol": {
+    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\multi_ico_platform\\MultiICO\\node_modules\\@uniswap\\v2-periphery\\contracts\\interfaces\\IUniswapV2Router02.sol": {
       "lastModificationDate": 1654593245265,
       "contentHash": "3fd36426274a5b35f7e702f87ba08a8e",
       "sourceName": "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router02.sol",
@@ -373,7 +373,7 @@
         "IUniswapV2Router02"
       ]
     },
-    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\MultiICO\\node_modules\\@uniswap\\v2-periphery\\contracts\\interfaces\\IUniswapV2Router01.sol": {
+    "C:\\Users\\Michal\\Desktop\\Blockchain\\multi-ico\\multi_ico_platform\\MultiICO\\node_modules\\@uniswap\\v2-periphery\\contracts\\interfaces\\IUniswapV2Router01.sol": {
       "lastModificationDate": 1654593245264,
       "contentHash": "95d8729b2c698dc663322167b3c085fe",
       "sourceName": "@uniswap/v2-periphery/contracts/interfaces/IUniswapV2Router01.sol",
