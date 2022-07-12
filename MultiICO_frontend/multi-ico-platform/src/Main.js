@@ -62,7 +62,7 @@ const Main = (props) => {
       window.ethereum.on("accountsChanged", (accounts) => {
         if (accounts.length > 0) {
           setWallet(accounts[0]);
-          setStatus("👆🏽 Write a message in the text-field above.");
+          setStatus("👆🏽 Explore the application using the panel above.");
           setAlertSeverity(Severity.info)
         } else {
           setAlertSeverity(Severity.info);
